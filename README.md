@@ -1,20 +1,18 @@
 
 # 👥 GOANIMATE-characters 📦
 
-Est repository public has been created by **Marcos Briceño** alone to organize and create Adobe Flash Player para **Vyond y GoAnimate for Schools**.
+This repository public has been created by **Marcos Briceño** alone to organize and create Adobe Flash Player for **Vyond y GoAnimate for Schools**.
 
 ## 🚀 Project Purpose
-
+Marcos wants to make his own website on HTML and folder for characters
 
 ## 🎬 Cast
-Este proyecto incluye soporte e ideas de tramas animadas basadas en figuras públicas de la cultura pop, la música, la lucha libre y la ciencia ficción:
-* **Chuck Norris** (Leyenda de acción)
-* **Dolly Parton** (Estrella de la música country)
-* **Hulk Hogan** (Ícono del wrestling)
-* **Patrick Stewart** (Actor de ciencia ficción)
-* **Walter Koenig** (Tributo especial de Star Trek)
-* **Charlie Kirk** (Figura pública de medios)
-* **Brian Thompson** (Personaje de tramas multimedia)
+This project includes support & ideas of plots animations based in figures public for pop culture, the music, la free fighting y the Sci-Fi:
+* **Chuck Norris** (Action Legend)
+* **Dolly Parton** (Music Country Star)
+* **Hulk Hogan** (Wrestling icon)
+* **Patrick Stewart** (Sci-Fi actoe)
+* **Walter Koenig** (Star Trek special tribute)
+* **Charlie Kirk** (The media public figure)
+* **Brian Thompson** (Multimedia plot character)
 
-## 📄 Licencia
-Este proyecto está bajo la Licencia **MIT** - Copyright (c) 2026 Marcos Briceño.
